@@ -4,9 +4,9 @@ Um eine Aufgabe zu erstellen, öffnen Sie die Aufgabenverwaltung und führen fol
 1. Wählen Sie den Punkt "Aufabe" aus der Liste aus
 1. Befüllen Sie die Felder
     * Überschrift
-    *  Beschreibung
-    * Datum der Fertigstellung
+    * Beschreibung
+    * Datum des Merge
     
 1. Klicken Sie auf erstellen unten rechts
 
-Nun sehen Sie die erstelle Aufgabe in der Übersicht der Aufgabenverwaltung.
+Nun sehen Sie die erstellte Aufgabe in der Übersicht der Aufgabenverwaltung.
