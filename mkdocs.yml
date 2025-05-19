@@ -21,7 +21,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono  
-  
+    
   markdown_extensions:
     - admonition
     - pymdownx.details
